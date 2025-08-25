@@ -3,7 +3,7 @@ This autofarm is using python.
 U need to install some libraries to run this without any problem.
 I only have Polish Language.
 
-## How to install it properly?
+??? How to install it properly ???
 
 ## 1. Downloading file 📦
 
@@ -25,7 +25,7 @@ git clone https://github.com/Jakubic769/autofarm-prospecting-py.git
 ```
 
 ## 2. Downloading Python if u dont have it 🐍
-## (Recommended using Python 3.12.5)
+    (Recommended using Python 3.12.5)
 
 if u have python | skip this
 if u don't have it | don't skip this
