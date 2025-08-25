@@ -10,14 +10,14 @@ I only have Polish Language.
 ## Windows
 
 U need to download this clicking
-on my main repository of this autofarm
-click Green button "code"
-and download zip
+on my main repository of this autofarm,
+click Green button "code",
+and download zip.
 
 ## Linux
 
-click Green button "code"
-and copy link
+click Green button "code",
+and copy link,
 then type in terminal git clone [Here link]
 
 ```
