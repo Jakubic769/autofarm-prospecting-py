@@ -25,7 +25,7 @@ git clone https://github.com/Jakubic769/autofarm-prospecting-py.git
 ```
 
 ## 2. Downloading Python if u dont have it 🐍
-    (Recommended using Python 3.12.5)
+(RECOMMENDED USING PYTHON 3.12.5)
 
 if u have python | skip this
 if u don't have it | don't skip this
