@@ -59,3 +59,4 @@ pip install time
 If u downloaded it without any Problems now u can run the file!
 
 ## Have a Lucky AFK Grinding 💥
+## FFLAGS.JSON is for the fps boost using fishstrap.
